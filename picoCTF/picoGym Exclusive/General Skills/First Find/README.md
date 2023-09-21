@@ -2,7 +2,7 @@
 
 ## Overview
 - Points: 100 Points
-- Hints: (None)
+- Hint(s): (None)
 
 ## Description
 > Unzip this archive and find the file named 'uber-secret.txt'
