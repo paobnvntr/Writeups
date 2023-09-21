@@ -16,7 +16,7 @@
 4. When you unzip the file, it will show you the file structure. Find **uber-secret.txt**
 5. Type `cat files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt` to show the information inside **uber-secret.txt**
 
-![firstfind-solution](https://github.com/paobnvntr/Writeups/assets/95178829/3e22eca6-7b02-4b82-8334-9bf685ba821b)
+![firstfind-solution](./firstfind-solution.png)
 
 ## Flag
 `picoCTF{f1nd_15_f457_ab443fd1}`
