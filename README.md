@@ -24,4 +24,4 @@ To navigate this repository effectively:
 - Use tags and labels to find specific writeups.
 
 ## Contact Information
-Feel free to contact me on [Twitter](https://twitter.com/paobnvntr) or on [LinkedIn](https://www.linkedin.com/in/paobnvntr/) for questions, feedback, or collaboration opportunities.
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/paobnvntr/) for questions, feedback, or collaboration opportunities.
